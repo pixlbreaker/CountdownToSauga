@@ -1,5 +1,5 @@
 // Main Countdown date
-const end_date = new Date("07/01/2025");
+const end_date = new Date("09/01/2025");
 const second = 1000;
 const minute = second * 60;
 const hour = minute * 60;
